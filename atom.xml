@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <title>行旅册</title>
+  <subtitle>一个文件驱动的个人旅行档案站，支持地点树、足迹地图、文章归档和多次访问记录。</subtitle>
+  <link href="https://sokkafan.github.io/travel-archive/" />
+  <link href="https://sokkafan.github.io/travel-archive/atom.xml" rel="self" type="application/atom+xml" />
+  <id>https://sokkafan.github.io/travel-archive/</id>
+  <updated>2026-06-27T16:00:00.000Z</updated>
+  <author>
+    <name>Traveler</name>
+  </author>
+  <entry>
+    <title>旅行档案启动</title>
+    <link href="https://sokkafan.github.io/travel-archive/posts/hello-archive/" />
+    <id>https://sokkafan.github.io/travel-archive/posts/hello-archive/</id>
+    <updated>2026-06-27T16:00:00.000Z</updated>
+    <summary>用地点、时间线和地图，把旅行记忆整理成长期可维护的站点。</summary>
+    <category term="文章" />
+  </entry>
+  <entry>
+    <title>为什么第一版先用文件驱动</title>
+    <link href="https://sokkafan.github.io/travel-archive/posts/file-driven/" />
+    <id>https://sokkafan.github.io/travel-archive/posts/file-driven/</id>
+    <updated>2026-06-26T16:00:00.000Z</updated>
+    <summary>静态站先用 Markdown 管理内容，可以降低维护成本，也方便以后接后台。</summary>
+    <category term="文章" />
+  </entry>
+  <entry>
+    <title>足迹 · 北京</title>
+    <link href="https://sokkafan.github.io/travel-archive/travels/beijing/" />
+    <id>https://sokkafan.github.io/travel-archive/travels/beijing/</id>
+    <updated>2026-06-24T16:00:00.000Z</updated>
+    <summary>历史密度很高的城市，适合一次次回来补全。</summary>
+    <category term="足迹" />
+  </entry>
+  <entry>
+    <title>足迹 · 桂林</title>
+    <link href="https://sokkafan.github.io/travel-archive/travels/guilin/" />
+    <id>https://sokkafan.github.io/travel-archive/travels/guilin/</id>
+    <updated>2026-04-11T16:00:00.000Z</updated>
+    <summary>山水作为背景，米粉作为入口。</summary>
+    <category term="足迹" />
+  </entry>
+  <entry>
+    <title>足迹 · 九寨沟</title>
+    <link href="https://sokkafan.github.io/travel-archive/travels/jiuzhaigou/" />
+    <id>https://sokkafan.github.io/travel-archive/travels/jiuzhaigou/</id>
+    <updated>2025-10-06T16:00:00.000Z</updated>
+    <summary>颜色几乎不讲道理的高原水景。</summary>
+    <category term="足迹" />
+  </entry>
+  <entry>
+    <title>足迹 · 成都</title>
+    <link href="https://sokkafan.github.io/travel-archive/travels/chengdu/" />
+    <id>https://sokkafan.github.io/travel-archive/travels/chengdu/</id>
+    <updated>2025-10-02T16:00:00.000Z</updated>
+    <summary>节奏松弛，适合用胃和脚步一起认识。</summary>
+    <category term="足迹" />
+  </entry>
+</feed>
