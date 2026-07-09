@@ -14,6 +14,7 @@ const PRECACHE_URLS = [
   "/travel-archive/maintenance/",
   "/travel-archive/manifest.webmanifest",
   "/travel-archive/map/",
+  "/travel-archive/memories/",
   "/travel-archive/offline/",
   "/travel-archive/photos/",
   "/travel-archive/planned/",
