@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Abstract travel map">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8d4b8"/>
+      <stop offset="0.55" stop-color="#cfe1d7"/>
+      <stop offset="1" stop-color="#8eb5af"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <path d="M84 580 C240 492 326 602 482 518 C632 438 696 284 850 318 C986 348 1014 494 1120 440" fill="none" stroke="#fffdf7" stroke-width="18" stroke-linecap="round" opacity=".72"/>
+  <path d="M56 650 C280 594 400 694 610 608 C792 534 924 618 1140 536" fill="none" stroke="#2f6f68" stroke-width="8" stroke-linecap="round" opacity=".5"/>
+  <g fill="#fffdf7" opacity=".86">
+    <circle cx="208" cy="532" r="18"/>
+    <circle cx="482" cy="518" r="18"/>
+    <circle cx="850" cy="318" r="18"/>
+    <circle cx="1040" cy="462" r="18"/>
+  </g>
+  <g fill="#b86b3f">
+    <circle cx="208" cy="532" r="8"/>
+    <circle cx="482" cy="518" r="8"/>
+    <circle cx="850" cy="318" r="8"/>
+    <circle cx="1040" cy="462" r="8"/>
+  </g>
+  <circle cx="980" cy="172" r="92" fill="#fffdf7" opacity=".38" filter="url(#soft)"/>
+  <path d="M0 760 C180 700 310 724 440 760 C600 804 720 798 880 742 C1034 688 1110 710 1200 742 L1200 800 L0 800 Z" fill="#214b4a" opacity=".28"/>
+</svg>
