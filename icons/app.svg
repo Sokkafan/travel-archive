@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="行旅册">
+  <rect width="512" height="512" rx="96" fill="#f6f1e8"/>
+  <path d="M104 124c58-28 112-28 166 0 48 25 94 27 138 6v250c-48 23-96 22-144-3-54-28-106-27-160 0V124Z" fill="#fffdf7" stroke="#214b4a" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M174 158v188M260 126v218M344 144v198" fill="none" stroke="#ded5c8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M160 296c39-60 78-95 118-105 41-10 76 4 106 44" fill="none" stroke="#b86b3f" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="278" cy="190" r="28" fill="#2f6f68"/>
+  <circle cx="160" cy="296" r="18" fill="#2f6f68"/>
+  <circle cx="384" cy="235" r="18" fill="#2f6f68"/>
+</svg>

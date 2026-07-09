@@ -1,0 +1,32 @@
+{
+  "name": "行旅册",
+  "short_name": "行旅册",
+  "description": "一个文件驱动的个人旅行档案站，支持地点树、足迹地图、文章归档和多次访问记录。",
+  "lang": "zh-CN",
+  "id": "/travel-archive/",
+  "start_url": "/travel-archive/",
+  "scope": "/travel-archive/",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#f6f1e8",
+  "icons": [
+    {
+      "src": "/travel-archive/icons/app.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "地图",
+      "url": "/travel-archive/map/",
+      "description": "打开旅行地图"
+    },
+    {
+      "name": "足迹",
+      "url": "/travel-archive/travels/",
+      "description": "打开旅行足迹"
+    }
+  ]
+}
