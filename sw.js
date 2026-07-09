@@ -25,6 +25,7 @@ const PRECACHE_URLS = [
   "/travel-archive/rss.xml",
   "/travel-archive/search/",
   "/travel-archive/stats/",
+  "/travel-archive/stories/",
   "/travel-archive/tags/",
   "/travel-archive/tags/%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86/",
   "/travel-archive/tags/%E5%8D%9A%E7%89%A9%E9%A6%86/",
