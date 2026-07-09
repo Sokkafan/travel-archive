@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="桂林">
+  <rect width="1200" height="630" fill="#e0ece9" />
+  <rect x="0" y="0" width="1200" height="630" fill="#fffdf7" opacity="0.42" />
+  <circle cx="948" cy="238" r="146" fill="#356f78" opacity="0.18" />
+       <path d="M760 438 C840 350 910 470 1000 380 S1140 360 1182 292" fill="none" stroke="#356f78" stroke-width="22" stroke-linecap="round" opacity="0.34" />
+       <path d="M780 160 C860 110 930 178 1010 130 S1134 116 1190 72" fill="none" stroke="#9a6a32" stroke-width="16" stroke-linecap="round" opacity="0.28" />
+       <circle cx="924" cy="308" r="26" fill="#9a6a32" opacity="0.82" />
+       <circle cx="1054" cy="214" r="18" fill="#356f78" opacity="0.76" />
+  <rect x="0" y="0" width="760" height="630" fill="#e0ece9" opacity="0.96" />
+  <path d="M0 512 C180 448 296 570 462 508 S650 448 760 520 L760 630 L0 630 Z" fill="#356f78" opacity="0.12" />
+  <rect x="72" y="70" width="74" height="6" rx="3" fill="#9a6a32" />
+  <text x="72" y="118" fill="#9a6a32" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" font-weight="800" letter-spacing="3">TRAVEL</text>
+  <text x="72" y="204" fill="#24484e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="900">桂林</text>
+  <text x="76" y="444" fill="#24484e" opacity="0.74" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25">山水作为背景，米粉作为入口。</text>
+  <text x="76" y="552" fill="#356f78" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="800">2026-04-12 · 25.27, 110.29 · 山水 / 城市</text>
+  <text x="76" y="590" fill="#24484e" opacity="0.58" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">行旅册 · 把走过的地方，整理成可以再次出发的地图。</text>
+</svg>
