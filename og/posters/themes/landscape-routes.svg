@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-label="山水路线专题海报">
+  <rect width="1080" height="1350" fill="#e5ead8" />
+  <rect x="54" y="54" width="972" height="1242" rx="34" fill="#fffdf7" opacity="0.74" />
+  <path d="M92 1026 C210 952 344 1058 474 1000 S720 928 988 1002 L988 1262 L92 1262 Z" fill="#476640" opacity="0.12" />
+  <path d="M664 156 C740 104 816 186 882 136 S982 126 1030 78" fill="none" stroke="#8a5f34" stroke-width="18" stroke-linecap="round" opacity="0.34" />
+  <path d="M610 472 C700 382 760 540 846 438 S1000 424 1032 342" fill="none" stroke="#476640" stroke-width="24" stroke-linecap="round" opacity="0.32" />
+  <circle cx="768" cy="536" r="18" fill="#8a5f34" />
+  <circle cx="908" cy="426" r="24" fill="#476640" />
+  <circle cx="968" cy="316" r="14" fill="#273d2a" opacity="0.68" />
+  <rect x="92" y="96" width="96" height="8" rx="4" fill="#8a5f34" />
+  <text x="92" y="158" fill="#8a5f34" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="900">LANDSCAPE ROUTES</text>
+  <text x="92" y="260" fill="#273d2a" opacity="1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="82" font-weight="950">山水路线</text>
+  <text x="96" y="500" fill="#273d2a" opacity="0.72" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">把自然景观、路线片段和下次想补的季节版本放在</text>
+  <text x="96" y="542" fill="#273d2a" opacity="0.72" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">同一个入口里。</text>
+  <g transform="translate(92 680)">
+    <rect width="896" height="172" rx="22" fill="#273d2a" opacity="0.08" />
+    <text x="34" y="58" fill="#476640" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="900">POSTER SUMMARY</text>
+    <text x="34" y="122" fill="#273d2a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="950">2 地点</text>
+    <text x="264" y="122" fill="#273d2a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="950">2 路线</text>
+    <text x="498" y="122" fill="#273d2a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="950">2 坐标</text>
+    <text x="720" y="122" fill="#273d2a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="950">2026</text>
+  </g>
+  <g transform="translate(92 900)">
+    <text x="0" y="0" fill="#8a5f34" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="900">ROUTE</text>
+    <text x="0" y="54" fill="#273d2a" opacity="1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="800">桂林 · 象鼻山 → 两江四湖 → 正阳</text>
+  <text x="0" y="94" fill="#273d2a" opacity="1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="800">步行街</text>
+    <text x="0" y="188" fill="#476640" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="900">PLACES</text>
+    <text x="0" y="238" fill="#273d2a" opacity="0.82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="760">- 桂林</text>
+  <text x="0" y="276" fill="#273d2a" opacity="0.82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="760">- 九寨沟</text>
+    <text x="540" y="188" fill="#476640" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="900">TAGS</text>
+    <text x="540" y="238" fill="#273d2a" opacity="0.82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="760"># 高原 1</text>
+  <text x="540" y="276" fill="#273d2a" opacity="0.82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="760"># 山水 1</text>
+  <text x="540" y="314" fill="#273d2a" opacity="0.82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="760"># 徒步 1</text>
+  <text x="540" y="352" fill="#273d2a" opacity="0.82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="760"># 自然 1</text>
+  </g>
+  <text x="92" y="1244" fill="#476640" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="900">估算 1,064 km · 仅使用公开旅行数据</text>
+  <text x="92" y="1288" fill="#273d2a" opacity="0.58" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23">行旅册 · 地图专题海报</text>
+</svg>
