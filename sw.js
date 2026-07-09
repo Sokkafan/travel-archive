@@ -11,6 +11,7 @@ const PRECACHE_URLS = [
   "/travel-archive/atom.xml",
   "/travel-archive/icons/app.svg",
   "/travel-archive/images/hero/atlas.svg",
+  "/travel-archive/indexes/",
   "/travel-archive/maintenance/",
   "/travel-archive/manifest.webmanifest",
   "/travel-archive/map/",
